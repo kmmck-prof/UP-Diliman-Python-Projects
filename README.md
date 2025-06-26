@@ -12,8 +12,6 @@ Milestone 2: Groups resistors into series/parallel clusters and calculates their
 
 Milestone 3: Simplifies the entire network using only series and parallel reductions.
 
-Milestone 4: Handles complex networks requiring Delta-Wye transformations for accurate resistance calculations.
-
 Implementation Details:
 Built in Python using dictionaries for efficient resistor and node storage.
 
