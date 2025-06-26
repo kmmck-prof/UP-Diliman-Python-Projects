@@ -5,6 +5,7 @@ This contains all my python project and homework submissions for "EEE121-Data-St
 I developed this project as part of my Data Structures and Algorithms course to analyze and simplify resistor networks represented as graphs. The program parses resistor connections, identifies series and parallel configurations, and computes equivalent resistances between nodes (such as Vdd and GND) using iterative simplifications and Delta-Wye (Δ-Y) transformations when necessary.
 
 Key Features:
+
 Milestone 1: Determines if two resistors are in series, parallel, or neither.
 
 Milestone 2: Groups resistors into series/parallel clusters and calculates their equivalent resistances.
